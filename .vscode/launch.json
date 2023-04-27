@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Estaciones",
+      "request": "launch",
+      "mainClass": "Estaciones",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "NumFor",
+      "request": "launch",
+      "mainClass": "NumFor",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "NumDo",
+      "request": "launch",
+      "mainClass": "NumDo",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "NumWhile",
+      "request": "launch",
+      "mainClass": "NumWhile",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "NumIf",
+      "request": "launch",
+      "mainClass": "NumIf",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "Num",
+      "request": "launch",
+      "mainClass": "Num",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "NumeroIF",
+      "request": "launch",
+      "mainClass": "NumeroIF",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AdicionNum",
+      "request": "launch",
+      "mainClass": "AdicionNum",
+      "projectName": "OpenBootcamp_42534e2f"
+    },
+    {
+      "type": "java",
+      "name": "Coche",
+      "request": "launch",
+      "mainClass": "Coche",
+      "projectName": "OpenBootcamp_42534e2f"
+    }
+  ]
+}
